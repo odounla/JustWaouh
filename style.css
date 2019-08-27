@@ -53,3 +53,8 @@ body{
 .navbar-nav .nav-link:hover{
   color:#b17d0f;
 }
+.navbar.solid{
+  background: rgba(0,0,0,.7)!important;
+  transition: background-color 1s ease 0s;
+
+}
