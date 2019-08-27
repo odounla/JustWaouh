@@ -34,3 +34,22 @@ body{
 .navbar-brand img {
 	height: 2rem;
 }
+
+.svg-inline--fa.fa-w-14{
+  color:white;
+  font-size: 1.6rem;
+}
+
+.navbar-nav li {
+	padding-right: .8rem;
+}
+
+.navbar-nav .nav-link{
+	color:white;
+	padding-top: .8rem;
+}
+
+.navbar-nav .navbar-link.active,
+.navbar-nav .nav-link:hover{
+  color:#b17d0f;
+}
