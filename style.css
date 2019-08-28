@@ -45,15 +45,13 @@ body{
 }
 
 .navbar-nav .nav-link{
-	color: black;
-	/*color:#C613B5;*/
+	color:white;*/
 	padding-top: .8rem;
 }
 
 .navbar-nav .navbar-link.active,
 .navbar-nav .nav-link:hover{
-	color:white;
-  /*color:#b17d0f;*/
+  color:#b17d0f;*/
 }
 .navbar.solid{
   background: rgba(0,0,0,.7)!important;
