@@ -45,16 +45,23 @@ body{
 }
 
 .navbar-nav .nav-link{
-	color:white;
+	color: black;
+	/*color:#C613B5;*/
 	padding-top: .8rem;
 }
 
 .navbar-nav .navbar-link.active,
 .navbar-nav .nav-link:hover{
-  color:#b17d0f;
+	color:white;
+  /*color:#b17d0f;*/
 }
 .navbar.solid{
   background: rgba(0,0,0,.7)!important;
   transition: background-color 1s ease 0s;
 
+}
+
+/*====================== Landing Page ===========================*/
+.home-inner {
+	background-image: url('img/Justwouuhbkg.png');
 }
