@@ -5,7 +5,7 @@ body{
 	overflow-x: hidden;
 	font-family: 'Lato', sans-serif;
 	color: #505962;
-	background-color: #505962; /* to see nav before adding landing img */
+	
 }
 
 /*--- Nav Scrolling Offset ---*/
@@ -98,5 +98,6 @@ body{
 	font-size: 1.1rem;
 	font-weight: 400;
 	text-transform: uppercase;
+	display: inline-block!important;
 }
 
