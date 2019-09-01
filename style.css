@@ -153,3 +153,40 @@ h3.heading {
 	background-color: #b17d0f;
 	margin: 0 auto 2rem;
 }
+
+.feature{
+	text-align: center;
+}
+.feature .fa-layers {
+	color:  #b17d0f;
+	height: 6rem;
+	margin: 0 auto;
+}
+
+.feature h3 {
+	font-size: 1.3rem;
+	text-transform: uppercase;
+	padding-bottom: .4rem;
+}
+.feature p {
+	font-size: 1.1rem;
+}
+
+
+/*===================== FIXED BACKGROUND IMG DARK ================*/
+#fixed{
+  
+  background-image: url('img/fixed/apple.jpg');
+  z-index: -1;
+}
+.dark{
+  background-color: rgba(0,0,0,0.75);
+  padding: 7rem 2rem;
+  text-align: center;
+  z-index: 1000!important;
+}
+.dark h3, .dark p{
+  color:#e9ecef;
+}
+
+/*
