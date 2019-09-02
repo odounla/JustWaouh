@@ -176,7 +176,7 @@ h3.heading {
 /*===================== FIXED BACKGROUND IMG DARK ================*/
 #fixed{
   
-  background-image: url('img/fixed/apple.jpg');
+  background-image: url('img/fixed/reception1.png');
   z-index: -1;
 }
 .dark{
@@ -188,5 +188,3 @@ h3.heading {
 .dark h3, .dark p{
   color:#e9ecef;
 }
-
-/*
