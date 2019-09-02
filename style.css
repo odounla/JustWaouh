@@ -54,7 +54,7 @@ body{
   color:#b17d0f;
 }
 .navbar.solid{
-  background: rgba(0,0,0,.7)!important;
+  background: rgba(0,0,0,.5)!important;
   transition: background-color 1s ease 0s;
 
 }
@@ -137,6 +137,9 @@ border-color: #dab462;
 	margin-bottom: 0;
 	border-radius: 0;
 	padding: 1rem 0 3rem;
+	
+}
+
 }
 
 h3.heading {
@@ -180,7 +183,7 @@ h3.heading {
   z-index: -1;
 }
 .dark{
-  background-color: rgba(0,0,0,0.40);
+  background-color: rgba(0,0,0,0.45);
   padding: 7rem 2rem;
   text-align: center;
   z-index: 1000!important;
